@@ -4,11 +4,17 @@
 #include <iostream>
 #include<stdio.h>
 
+#define max 100
+
+
+
 using namespace std;
 
 int main()
 {
     std::cout << "Hello world!";
-    printf("hello");
+    std::cout << "ece";
+    std::cout << max;
+
 
 }
